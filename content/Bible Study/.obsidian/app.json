@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "Files",
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_Inbox",
+  "showUnsupportedFiles": true
+}

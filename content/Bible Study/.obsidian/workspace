@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "92f3f6a8e67bbd55",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b6382d69702e33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Colossians/Greek Exegesis/Colossians 1_3–8.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c36c9ce346d6826b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e625018ef99e44fa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5d9da3114494e05f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3617a2d384f3f83c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1c72a95c4becc342",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3118f523b3686531",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e9299d299ef7ab77",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Colossians/Greek Exegesis/Colossians 1_3–8.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d06e6b8eba4d0e79",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Colossians/Greek Exegesis/Colossians 1_3–8.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "97b6382d69702e33",
+  "lastOpenFiles": [
+    "Colossians/Greek Exegesis/Colossians 1_3–8.md",
+    "Articles/Colossian Heresy.md",
+    "_Inbox/Teaching Notes Col 1_3–14.md",
+    "Articles/Colossae.md",
+    "Colossians/Colossians Introduction.md",
+    "Articles/Timothy.md",
+    "Articles/Paul.md",
+    "Articles/Epaphras.md",
+    "Articles/Laodicea.md",
+    "Colossians/Greek Exegesis/Colossians 1_1–2.md"
+  ]
+}

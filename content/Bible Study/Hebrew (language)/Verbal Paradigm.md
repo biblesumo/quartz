@@ -1,0 +1,1 @@
+![[Qal Paradigm.png]]
